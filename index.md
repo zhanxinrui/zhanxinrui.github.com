@@ -1,20 +1,22 @@
-## Welcome to GitHub Pages
+## Welcome to Zhanxinrui's Pages
 
-You can use the [editor on GitHub](https://github.com/zhanxinrui/zhanxinrui.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 十年生死两茫茫，写程序，到天亮。
+###千行代码，Bug何处藏。 
+###纵使上线又怎样，朝令改，夕断肠。 
+###领导每天新想法，天天改，日日忙。
+###相顾无言，惟有泪千行。
+###每晚灯火阑珊处，夜难寐，又加班。
+ 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
+# 努力  
+## 是一件
+### 很自然的事
 - Bulleted
 - List
 
@@ -29,8 +31,8 @@ Syntax highlighted code block
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
+ 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhanxinrui/zhanxinrui.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
